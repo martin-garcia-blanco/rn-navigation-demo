@@ -1,6 +1,6 @@
 # This is a litle React Native navigation demo ![](./assets/rn-image.png)
 
-## The main porpouse is to learn and share help to devs that are learning react-native
+## The main porpouse is to learn and help devs that are learning react-native
 
 ### Demo examples:
 
