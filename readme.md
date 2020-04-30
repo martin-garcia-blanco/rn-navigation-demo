@@ -4,7 +4,7 @@
 
 ### Demo examples:
 
-- Dependencies <a href="https://reactnavigation.org/docs/hello-react-navigation" target="_blank">Docs</a>
+- Dependencies [docs](https://reactnavigation.org/docs/hello-react-navigation){:target="_blank"}
 - Create Navigator [docs](https://reactnavigation.org/docs/hello-react-navigation){:target="_blank"}
 - Moving between screens [docs](https://reactnavigation.org/docs/navigating){:target="_blank"}
 - Send props to children [docs](https://reactnavigation.org/docs/params){:target="_blank"}
