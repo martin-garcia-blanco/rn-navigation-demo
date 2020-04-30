@@ -4,7 +4,7 @@
 
 ### Demo examples:
 
-- Dependencies [docs](https://reactnavigation.org/docs/hello-react-navigation)
-- Create Navigator [docs](https://reactnavigation.org/docs/hello-react-navigation)
-- Moving between screens [docs](https://reactnavigation.org/docs/navigating)
-- Send props to children [docs](https://reactnavigation.org/docs/params)
+- Dependencies [docs](https://reactnavigation.org/docs/hello-react-navigation){:target="_blank"}
+- Create Navigator [docs](https://reactnavigation.org/docs/hello-react-navigation){:target="_blank"}
+- Moving between screens [docs](https://reactnavigation.org/docs/navigating){:target="_blank"}
+- Send props to children [docs](https://reactnavigation.org/docs/params){:target="_blank"}
